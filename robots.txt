@@ -4,4 +4,4 @@ Disallow: /resources/
 Disallow: /privacy-policy/
 Disallow: /thank-you/
 
-Sitemap: https://www.rhillsroofing.com/sitemap.xml
+Sitemap: https://rhillsroofing.com/sitemap.xml
